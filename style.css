@@ -11,7 +11,7 @@ body {
     background: #ffffff;}
 
 header { 
-    background: #000000;
+    background-color: rgba(var(--bsblue-700-rgb),var(--bsbg-opacity)) !important;
     color: white;
     padding: 20px;
     text-align: center }
